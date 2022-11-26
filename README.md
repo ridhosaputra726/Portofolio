@@ -26,8 +26,8 @@ mobile testing Automation<br></h4>
   <h3><a  href="https://github.com/ridhosaputra726/Web-Testing">File</a></h3>
   <br>
 
-  <h2>Mobile Testing menggunakan Katalon</h2><br>
-  <br>
+  <h2>Mobile Testing menggunakan Katalon</h2>
+  
   
   
   ![2](https://user-images.githubusercontent.com/73927245/203966726-b1217a52-8cbe-4ece-bd55-8172dca3977c.PNG)
