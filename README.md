@@ -17,6 +17,7 @@ mobile testing Automation<br></h4>
 <br>
 <h2 align="center" >My Recent Work<h2>
 <h1 align="center" >Portfolio</h1>
+  <h2>Web Testing menggunakan Cypress</h2>
   
   ![1](https://user-images.githubusercontent.com/73927245/203966711-57245423-f91e-4fd2-9497-311c92bf967a.PNG)
 
@@ -25,6 +26,10 @@ mobile testing Automation<br></h4>
   <h3><a  href="https://github.com/ridhosaputra726/Web-Testing">File</a></h3>
   <br>
 
+  <h2>Mobile Testing menggunakan Katalon</h2><br>
+  <br>
+  
+  
   ![2](https://user-images.githubusercontent.com/73927245/203966726-b1217a52-8cbe-4ece-bd55-8172dca3977c.PNG)
 ![3](https://user-images.githubusercontent.com/73927245/203966740-93a06c7f-c3a9-4c31-abbc-ddb95f26b122.PNG)
 ![4](https://user-images.githubusercontent.com/73927245/203966751-019918f1-e8e1-4152-9a25-a610b3473972.PNG)
