@@ -35,4 +35,4 @@ mobile testing Automation<br></h4>
 ![4](https://user-images.githubusercontent.com/73927245/203966751-019918f1-e8e1-4152-9a25-a610b3473972.PNG)
 <h3><a  href="https://apkpure.com/id/happy-day-shopping/com.ecwid.ShopAt.HappyDayShopping">Mobile Testing</a></h3>
   <h3><a  href="https://youtu.be/6Vx0fP9eEnY"> Video</a></h3>
-  <h3><a  href="https://github.com/ridhosaputra726/Mobile-Testing">File  </a></h3>
+  <h3><a  href="https://github.com/ridhosaputra726/Mobile">File  </a></h3>
