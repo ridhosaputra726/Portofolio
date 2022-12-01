@@ -10,9 +10,10 @@ mobile testing Automation<br></h4>
 <h2 align="center" >What Skills I Have<br></h2>
 <h1 align="center" >My Experience</h1>
 <h4 >
-&bull; Katalon(Intermediate)        &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;        &bull;Appium(Intermediate)<br><br>
-&bull; Cypress(Intermediate)       &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     &bull;Javascript(Intermediate)<br><br>
-&bull; Instalasi Jaringan Komputer(Intermediate)   &bull; Konfigurasi Mikrotik(Intermediate) </h4><br>
+&bull; Katalon (Intermediate)        &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;        &bull;Appium (Intermediate)<br><br>
+&bull; Cypress (Intermediate)       &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     &bull;Javascript (Intermediate)<br><br>
+&bull; Selenium (Intermediate)    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;      &bull; Konfigurasi Mikrotik (Intermediate) 
+</h4><br>
 <br>
 <br>
 <h2 align="center" >My Recent Work<h2>
